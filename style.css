@@ -152,7 +152,7 @@ min-height: 100px;
 
 .content h1 span{
     color: #077b32;
-    text-shadow: 0 0 10px #077b32;
+    text-shadow: 0 0 10px red;
 }
 
 .content .typewriter{
